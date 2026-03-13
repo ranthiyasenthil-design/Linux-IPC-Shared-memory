@@ -27,7 +27,7 @@ Execute the C Program for the desired output.
 
 
 ## OUTPUT
-
-
+![image](ex06.png)
+![image](ex6.1.png)
 # RESULT:
 The program is executed successfully.
